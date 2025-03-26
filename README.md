@@ -81,5 +81,5 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ---
 
-🚀 **Enhance your PDF-based research with AI-powered context-aware answers!**
+**Enhance your PDF-based research with AI-powered context-aware answers!**
 
