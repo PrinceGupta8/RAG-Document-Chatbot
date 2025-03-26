@@ -30,10 +30,10 @@ This project is a **Streamlit-based AI assistant** that enables users to **ask c
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/PrinceGupta8/context-aware-pdf-qa.git
-   cd context-aware-pdf-qa
+  git clone https://github.com/PrinceGupta8/RAG-Document-Chatbot.git
+   cd RAG-Document-Chatbot
    ```
-2. **Create a virtual environment** (optional but recommended)
+2. **Create a virtual environment** 
    ```bash
    python -m venv venv
    venv\Scripts\activate
